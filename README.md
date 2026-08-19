@@ -241,7 +241,6 @@ See the `LICENSE` file for more information.
 
 **Your Name**
 
-* Twitter: [@your_twitter](https://twitter.com/your_twitter)
 
 
 ### Project Link
