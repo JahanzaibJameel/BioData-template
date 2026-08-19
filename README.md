@@ -65,7 +65,7 @@ No Node.js or build tools are required.
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/marriage-biodata-template.git
+git clone https://github.com/JahanzaibJameel/BioData-template.git
 ```
 
 #### 2. Navigate to the project directory
