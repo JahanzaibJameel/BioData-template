@@ -237,7 +237,7 @@ See the `LICENSE` file for more information.
 
 ---
 
-## 📬 Contact
+## 📬 
 
 ### Project Link
 
