@@ -238,7 +238,6 @@ See the `LICENSE` file for more information.
 ---
 
 ## 📬 Contact
-
 **Your Name**
 
 ### Project Link
