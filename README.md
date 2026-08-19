@@ -239,7 +239,6 @@ See the `LICENSE` file for more information.
 
 ## 📬 Contact
 
-
 ### Project Link
 
 https://github.com/JahanzaibJameel/BioData-template
